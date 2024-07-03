@@ -8,7 +8,7 @@ This repository contains the source code for the Fylo website developed using HT
 
 > _This project was developed during the course [Tailwind CSS From Scratch | Learn By Building Projects](https://www.udemy.com/course/tailwind-from-scratch/), taught by [Brad Traversy](https://www.udemy.com/user/brad-traversy/)._ <br>
 > You can view the certificate of completion below: <br>
-> [`Certificate of Completion`](Project5-FyloWebsite/CertificateTailwind.jpg)
+> [`Certificate of Completion`](https://github.com/gizellemanu/Fylo-Website/blob/main/CertificateTailwind.jpg)
 
 ## Table of Contents
 
@@ -103,7 +103,7 @@ Este repositório contém o código-fonte para o site Fylo desenvolvido usando H
 
 > _Este projeto foi desenvolvido durante o curso [Tailwind CSS From Scratch | Learn By Building Projects](https://www.udemy.com/course/tailwind-from-scratch/), ministrado por [Brad Traversy](https://www.udemy.com/user/brad-traversy/)._ <br>
 > Você pode ver o certificado de conclusão abaixo: <br>
-> [`Certificado de Conclusão`](Project5-FyloWebsite/Certificado.jpg)
+> [`Certificado de Conclusão`](https://github.com/gizellemanu/Fylo-Website/blob/main/Certificado.jpg)
 
 ## Índice
 
