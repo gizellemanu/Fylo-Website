@@ -1,6 +1,6 @@
 <img align="right" height="30" width="40" src="https://www.svgrepo.com/show/508668/flag-us.svg" alt="English">
 
-# Fylo Website
+# Fylo Website [<img height="60" width="70" src="https://www.svgrepo.com/show/293033/click.svg">](https://websitefylo.netlify.app)
 
 This repository contains the source code for the Fylo website developed using HTML and Tailwind CSS. It showcases the use of Tailwind CSS to create a modern, responsive, and accessible website. The website includes several sections like hero, features, testimonials, and more.
 
@@ -95,7 +95,7 @@ To view the website locally, you can use Visual Studio Code with the GoLive exte
 <hr>
 <img align="right" height="30" width="40" src="https://www.svgrepo.com/show/405433/flag-for-flag-brazil.svg" alt="Portugues">
 
-# Site Fylo
+# Site Fylo [<img height="60" width="70" src="https://www.svgrepo.com/show/293033/click.svg">](https://websitefylo.netlify.app)
 
 Este repositório contém o código-fonte para o site Fylo desenvolvido usando HTML e Tailwind CSS. Ele demonstra como o Tailwind CSS pode ser usado para criar um site moderno, responsivo e acessível. O site inclui várias seções, como herói, recursos, depoimentos e mais.
 
